@@ -18,3 +18,5 @@ class Student
     wealth <=> other.wealth
   end
 end
+
+# Suppose you have students (defined by the class Student) who each have an amount of money (in bills of five, ten and twenty euros). We want to be able to compare them based on their wealth.
